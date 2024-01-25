@@ -9,7 +9,8 @@ This repo set up for HW1
 - XXXXXX
 - XXXXXX
 
-![!MyPhotos](images/tele.jpg)
+![Images](images/tele.jpg)
+
 
 Gallery
 [Gallery](http://youtube.com)
