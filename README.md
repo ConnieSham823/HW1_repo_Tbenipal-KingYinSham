@@ -9,7 +9,6 @@ This repo set up for HW1
 - XXXXXX
 - XXXXXX
 
-![Images](images/tele.jpg)
 ![MySon](images/Elvis.png)
 
 
