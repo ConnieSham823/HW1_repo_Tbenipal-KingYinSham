@@ -32,11 +32,11 @@
 >
 
 ## ***Tapshveer benipal***
-
+![Avatar](images/Avatar.jpg)
 ### **About Me:**
 *Hi, my name is Tapshveer Benipal I don't have a preferred name so you can call me Tapsh or anything you wish like calling me. I'm from a different city which is much more populated so I'm not use to silence. I am a very introvert person & I might also be the youngest in class. I also have a pet dog his name is Rocky he is 4 years old & he is a Pomsky with hazel eyes.*
 
-## **My Hobbies:**
+### **My Hobbies:**
 ### 1. Playing Soccer
 ![Playing_Soccer](images/Playing_Soccer.jpg)
 
