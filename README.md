@@ -9,10 +9,10 @@
 - My name is Sham King Yin, you can call me Connie. I’m come from Hong Kong. I’m married and have two children, one aged 9 daughter and one aged 6 son. They are very lovely and always make me happy.
 
 ### *My Kids - Hannah & Elvis*
-![MySon](images/Hannah%20and%20Elvis.jpeg)
+![MySon](images/My%20Kids.png)
 
 ### *Our family is Catholic*
-![Catholic](images/Catholic.jpeg)
+![Catholic](images/Catholic.png)
 
 ### *My Hobbies*
 ### 1. Cooking
