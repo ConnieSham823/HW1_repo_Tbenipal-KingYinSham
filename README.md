@@ -3,25 +3,18 @@
 <i> We come from different parts of the world and form a duo here, so let's introduce ourselves! </i>
 
 ## ***Sham King Yin, Connie***
+![Connie](images/Connie.png)
 
-## **About me**
+## ***About me***
 - My name is Sham King Yin, you can call me Connie. I’m come from Hong Kong. I’m married and have two children, one aged 9 daughter and one aged 6 son. They are very lovely and always make me happy.
 
-<u>
-
-### My Kids - Hannah & Elvis </U>
+### *My Kids - Hannah & Elvis*
 ![MySon](images/Hannah%20and%20Elvis.jpeg)
 
-<u>
-
-### Our family is Catholic </u>
+### *Our family is Catholic*
 ![Catholic](images/Catholic.jpeg)
 
-<u>
-
-<u>
-
-### My Hobbies </u>
+### *My Hobbies*
 ### 1. Cooking
 - #### Delicious Food
 ![Food](images/Food.png)
