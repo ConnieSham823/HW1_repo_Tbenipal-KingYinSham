@@ -36,20 +36,23 @@
 
 >
 
-### ***Tapshveer benipal***
+## ***Tapshveer benipal***
+![Avatar](images/Avatar.jpg)
+### **About Me:**
+*Hi, my name is Tapshveer Benipal I don't have a preferred name so you can call me Tapsh or anything you wish like calling me. I'm from a different city which is much more populated so I'm not use to silence. I am a very introvert person & I might also be the youngest in class. I also have a pet dog his name is Rocky, he is 4 years old & he is a Pomsky with hazel eyes.*
 
-**About Me:**
-1. I'm a very introvert person
-2. I'm very helpful & friendly
-3. I'm also very good in Technology
+### **My Hobbies:**
+### 1. Playing Soccer
+![Playing_Soccer](images/Playing_Soccer.jpg)
 
-**My Hobbies:**
+### 2. Going to the Gym
+![Gym](images/Gym.jpg)
 
-- Playing Soccer 
-- Going to the Gym
-- Watching TV
-- Playing Video Games
-- Playing with my dog
+### 3. Watching TV
+![Watching_TV](images/Watching_Tv.jpg)
 
+### 4. Playing Video Games
+![Video_Gaming](images/Video_Gaming.jpg)
+
+### 5. Playing with my dog
 ![Pet](images/Rocky.jpeg)
-**My dogs name is Rocky he is 4 years old & he is a Pomsky with hazel eyes**
