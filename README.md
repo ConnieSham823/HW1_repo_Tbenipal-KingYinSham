@@ -1,28 +1,40 @@
 # Amazing TWO_Tbenipal_KingYinSham
-We come from different parts of the world and form a duo here, so let's introduce ourselves!
+
+<i> We come from different parts of the world and form a duo here, so let's introduce ourselves! </i>
 
 ## ***Sham King Yin, Connie***
 
 ## **About me**
-- XXXXXX
-- XXXXXX
-- XXXXXX
+- My name is Sham King Yin, you can call me Connie. I’m come from Hong Kong. I’m married and have two children, one aged 9 daughter and one aged 6 son. They are very lovely and always make me happy.
 
-**About me:**
+<u>
 
+### My Kids - Hannah & Elvis </U>
+![MySon](images/Hannah%20and%20Elvis.jpeg)
 
-### My Kids
-![MySon](images/Elvis.png)
+<u>
 
-**About me:**
-- XXXXXX
-- XXXXXX
-- XXXXXX
+### Our family is Catholic </u>
+![Catholic](images/Catholic.jpeg)
 
+<u>
 
+<u>
 
-My Favorite Book (Story reading by Hannah)
-[Give me a hug](https://youtu.be/KWnIjxzZ4MU)
+### My Hobbies </u>
+### 1. Cooking
+- #### Delicious Food
+![Food](images/Food.png)
+
+### 2. Reading
+- #### My Favorite Book 
+![Give me a hug](images/Give%20me%20a%20hug.jpg) 
+
+- [Give me a hug](https://youtu.be/KWnIjxzZ4MU)
+*<-- Listen Story Telling by Hannah (^3^)*
+
+### 3. Cycling
+![Bike](images/Cycling.png)
 
 >
 
