@@ -1,19 +1,28 @@
 # Amazing TWO_Tbenipal_KingYinSham
-This repo set up for HW1 
-## Self Introduction
+We come from different parts of the world and form a duo here, so let's introduce ourselves!
 
-***Sham King Yin, Connie***
+## ***Sham King Yin, Connie***
+
+## **About me**
+- XXXXXX
+- XXXXXX
+- XXXXXX
+
+**About me:**
+
+
+### My Kids
+![MySon](images/Elvis.png)
 
 **About me:**
 - XXXXXX
 - XXXXXX
 - XXXXXX
 
-![MySon](images/Elvis.png)
 
 
-Gallery
-[Gallery](http://youtube.com)
+My Favorite Book (Story reading by Hannah)
+[Give me a hug](https://youtu.be/KWnIjxzZ4MU)
 
 
 
