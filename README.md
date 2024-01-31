@@ -5,18 +5,18 @@
 ## ***Sham King Yin, Connie***
 ![Connie](images/Connie.png)
 
-## ***About me**
+## ***About Me***
 *My name is Sham King Yin, you can call me Connie. I’m come from Hong Kong. I’m married and have two children, one aged 9 daughter and one aged 6 son. They are very lovely and always make me happy.*
 
 *I’m 4X years old right now (Shuuuu…). I have over 20 years of working experience in Marketing at the Beauty Clinic Centre in Hong Kong. This industry is so challenging and interesting, so I have worked in this industry for a long time.*
 
-*Maybe sometimes I sim like the mother being very talkative, please stop me if you feel any inconvenience. Thank you for watching my self-introduction.*
+*Maybe sometimes I seem like the mother being very talkative, please stop me if you feel any inconvenience. Thank you for watching my self-introduction.*
 
 
 ### *My Kids - Hannah & Elvis*
 ![MySon](images/My%20Kids.png)
 
-### *Our family is Catholic*
+### *Our Family is Catholic*
 ![Catholic](images/Catholic.png)
 
 ### *My Hobbies*
@@ -38,8 +38,8 @@
 
 ## ***Tapshveer benipal***
 ![Avatar](images/Avatar.jpg)
-### **About Me:**
-*Hi, my name is Tapshveer Benipal I don't have a preferred name so you can call me Tapsh or anything you wish like calling me. I'm from a different city which is much more populated so I'm not use to silence. I am a very introvert person & I might also be the youngest in class. I also have a pet dog his name is Rocky, he is 4 years old & he is a Pomsky with hazel eyes.*
+## ***About Me***
+*Hi, my name is Tapshveer Benipal. I don't have a preferred name, so you can call me Tapsh or whatever you like. I am from a different city where is much more populated, so I am not use to silence. I am a very introvert person & I might also be the youngest in class. I also have a pet dog, and his name is Rocky. He is 4 years old now, and he is a Pomsky with hazel eyes.*
 
 ### **My Hobbies:**
 ### 1. Playing Soccer
